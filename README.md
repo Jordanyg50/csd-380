@@ -1,2 +1,5 @@
-# csd-380
-The History of DevOps
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Sue Sampson
+- Student: Jordany Gonzalez
